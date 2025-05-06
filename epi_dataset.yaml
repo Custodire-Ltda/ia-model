@@ -1,0 +1,6 @@
+path: \Users\Julliano Rodrigues\Desktop\IA\dataset
+train: images/train
+val: images/valid
+nc: 2 
+names: ['capacete', 'sem_capacete']
+
