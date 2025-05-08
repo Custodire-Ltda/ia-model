@@ -1,5 +1,0 @@
-path: \Users\Julliano Rodrigues\Desktop\IA\dataset
-train: train/images  
-val: valid/images  
-nc: 1  # Número de classes (só "capacete")  
-names: ['capacete']  
