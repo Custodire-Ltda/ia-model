@@ -1,0 +1,5 @@
+path: C:/Users/Julliano Rodrigues/Desktop/IA/dataset
+train: train/images
+val: val/images
+nc: 1  # Número de classes
+names: ['capacete']
